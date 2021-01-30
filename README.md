@@ -2,7 +2,9 @@
 
 Ebbinghaus-Trello is a tool to refresh your memory based on The Ebbinghaus Forgetting Curve.
 
-![ForgettingCurve.png](https://raw.githubusercontent.com/anhenghuang/ebbinghaus-trello/main/images/ForgettingCurve.png)
+<div  align="center">    
+<img width="50%" src="https://raw.githubusercontent.com/anhenghuang/ebbinghaus-trello/main/images/ForgettingCurve.png"/>
+</div>
 
 ## 1. Usage
 
@@ -17,5 +19,6 @@ Ebbinghaus-Trello is a tool to refresh your memory based on The Ebbinghaus Forge
 
 ## 2. Demo
 
-![screenshot_Board.png](https://raw.githubusercontent.com/anhenghuang/ebbinghaus-trello/main/images/screenshot_Board.png)
-
+<div  align="center">    
+<img width="90%" src="https://raw.githubusercontent.com/anhenghuang/ebbinghaus-trello/main/images/screenshot_Board.png"/>
+</div>
