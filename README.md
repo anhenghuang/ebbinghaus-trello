@@ -1,5 +1,7 @@
 # Ebbinghaus-Trello
 
+[中文版](https://github.com/anhenghuang/ebbinghaus-trello/blob/main/README_CN.md)
+
 Ebbinghaus-Trello is a tool to refresh your memory based on The Ebbinghaus Forgetting Curve.
 
 <div  align="center">    
