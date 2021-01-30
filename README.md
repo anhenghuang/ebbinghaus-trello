@@ -2,7 +2,7 @@
 
 Ebbinghaus-Trello is a tool to refresh your memory based on The Ebbinghaus Forgetting Curve.
 
-![ForgettingCurve.png](https://github.com/anhenghuang/ebbinghaus-trello/ForgettingCurve.png)
+![ForgettingCurve.png](https://raw.githubusercontent.com/anhenghuang/ebbinghaus-trello/main/images/ForgettingCurve.png)
 
 ## 1. Usage
 
@@ -15,8 +15,7 @@ Ebbinghaus-Trello is a tool to refresh your memory based on The Ebbinghaus Forge
    - add 'token' and 'token_secret' to config.py
 1. Deploy cron job on your server
 
-
 ## 2. Demo
 
-![screenshot_Board.png](https://github.com/anhenghuang/ebbinghaus-trello/screenshot_Board.png)
+![screenshot_Board.png](https://raw.githubusercontent.com/anhenghuang/ebbinghaus-trello/main/images/screenshot_Board.png)
 
